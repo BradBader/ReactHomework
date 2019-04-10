@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Hot Toys Joker",
-        "image": "41tH2D1WzWL.jpg",
+        "image": "JokerMime.jpg",
         "clicked": false
     },
     {
@@ -13,8 +13,8 @@
     },
     {
         "id": 3,
-        "name": "Agent Mulder 3A",
-        "image": "agent-mulder_x-files_feature.jpg",
+        "name": "Punisher",
+        "image": "Punisher.jpg",
         "clicked": false
     },
     {
@@ -26,7 +26,7 @@
     {
         "id": 5,
         "name": "Batman 1",
-        "image": "Batman_0180.jpg",
+        "image": "KeatonBM.jpg",
         "clicked": false
     },
     {
@@ -43,8 +43,8 @@
     },
     {
         "id": 8,
-        "name": "Deadpool Sideshow",
-        "image": "deadpool_marvel_feature.jpg",
+        "name": "Robocop",
+        "image": "Robocop.jpg",
         "clicked": false
     },
     {
@@ -55,14 +55,14 @@
     },
     {
         "id": 10,
-        "name": "Marty",
-        "image": "marty-mcfly-exclusive-sixth-scale-figure-by-hot-toys.jpg",
+        "name": "Hela",
+        "image": "hela.jpg",
         "clicked": false
     },
     {
         "id": 11,
-        "name": "Neo",
-        "image": "neo_the-matrix_feature.jpg",
+        "name": "Scarlet Witch",
+        "image": "ScarletWitch.jpg",
         "clicked": false
     },
     {
